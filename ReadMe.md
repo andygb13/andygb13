@@ -9,8 +9,8 @@ On this site, you're able to find some of the projects that I've worked on. <br>
 Comments and criticism about my projects are welcome!
 </br>
 My experience is in Computer Vision, Data Analysis and Pattern Recognition, and Digital Signal Processing. <br>
-
-<i>Follow me around the web:</i><br>
+</br>
+<i>Feel free to connect with me on LinkedIn:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/andy-guevara-90a62974/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> -->
 
@@ -19,6 +19,6 @@ My experience is in Computer Vision, Data Analysis and Pattern Recognition, and 
 
 </div>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/andy-guevara-90a62974/) 
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/andy-guevara-90a62974/)-->
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
