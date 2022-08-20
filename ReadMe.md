@@ -16,9 +16,4 @@ My experience is in Computer Vision, Data Analysis and Pattern Recognition, and 
 
 <a href="https://www.linkedin.com/in/andy-guevara-90a62974/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/andy-guevara-90a62974/)-->
-<!--
-**ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Template:https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/ABSphreak.md -->
